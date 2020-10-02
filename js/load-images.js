@@ -1,10 +1,10 @@
 /*
-    Jason Downing - Software Developer
-    Contact: jason@downing.io
+    Aditya Kumar
+    Contact: adityabehera23@gmail.com
     
     MIT Licensed - see http://opensource.org/licenses/MIT for details.
     Anyone may freely use this code. Just don't sue me if it breaks stuff.
-    Created: Jan 9, 2018
+    Created: October 1st, 2020
     
     This JS file loads all images in the /img/album/ directory into the 
     nanogallery2
