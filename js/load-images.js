@@ -22,9 +22,9 @@ var imgList = [];
 // GitHub API End Point URL / Path
 var githubApiVersion = "application/vnd.github.v3+json";
 var githubApiBaseUrl = "https://api.github.com";
-var githubRepo = "Mountain-Biking";
+var githubRepo = "Beauty-Odisha";
 var githubPath = "img/album/";
-var githubBranch = "gh-pages";
+var githubBranch = "master";
 
 $( document ).ready(function() {
   
@@ -42,7 +42,7 @@ $( document ).ready(function() {
   // API docs page for Getting Repository Contents: https://developer.github.com/v3/repos/contents/
   var request = $.ajax({
     
-    // Example: https://api.github.com/repos/Adityansh2334/Mountain-Biking/contents/img/album/
+    // Example: https://api.github.com/repos/Adityansh2334/Beauty-Odisha/contents/img/album/
     url: githubGetRequest,
     
     // Need to provide the branch so we pull from gh-pages and NOT master

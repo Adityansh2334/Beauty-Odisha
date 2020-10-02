@@ -1,11 +1,11 @@
 /*
     File: index.css
-    Jason Downing
+    Aditya Kumar
     Contact: jason@downing.io
     MIT Licensed - see http://opensource.org/licenses/MIT for details.
     Anyone may freely use this code. Just don't sue me if it breaks stuff.
-    Created: September 3rd, 2015.
-    Last Updated: June 4, 2017.
+    Created: October 1st, 2020.
+    Last Updated: 
 
     This file contains CSS classes / IDs used to override the Creative Bootstrap Theme
 */
@@ -30,7 +30,8 @@
 
 .text-header-p {
   color: white;
-  background-color: black;
+  text-shadow: 4px 4px 4px #000000;
+  background-color: none;
 }
 
 /*  For the GitHub Section link
